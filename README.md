@@ -19,8 +19,11 @@ It then will reconstruct any images it has found and display them to you.
 
 ## Collecting Data
 This is mostly a proof of concept but if you wanted to you could slightly modify this script to find whatever data you're looking for. 
+
 Deploy this onto a web server. 
+
 Then you could make it store data into a database and from there follow more links.
+
 Turning this simple script into an actual scraper online for data. 
 
 ## Conclusion of The Project
